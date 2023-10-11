@@ -14,7 +14,7 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="App-footer"><small>Coded by TL</small></footer>
+      <footer className="App-footer"><small>Coded by TL and open-sourced on <a href="https://github.com/TLintott/dictionaryapp">Github</a></small></footer>
       </div>
     </div>
   );
