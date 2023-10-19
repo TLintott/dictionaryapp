@@ -8,7 +8,7 @@ export default function Dictionary(){
   let [results, setResults] = useState(null);
   
   function handResponse(response){
-    console.log(response.data);
+    //console.log(response.data);
     setResults(response.data);
   }
 
