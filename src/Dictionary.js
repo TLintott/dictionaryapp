@@ -59,7 +59,7 @@ return (<div className="Dictionary">
         <input type="search" onChange={handleKeywordChange}
         defaultValue={props.defaultKeyword}/>
     </form>
-    <div className="hint"> examples: rainbow, book, cake... </div>
+    <div className="hint"> e.g. rainbow, book, cake, butterfly, paper... </div>
     </section>
     <Results results={results}/>
     <Photos photos={photos}/>
