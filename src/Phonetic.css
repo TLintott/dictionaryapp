@@ -1,0 +1,11 @@
+.Phonetic{
+    height: 60px;
+}
+
+
+
+.Phonetic h4{
+    opacity: 0.7;
+    font-weight: bold;
+    color:#2e2b2b;
+}

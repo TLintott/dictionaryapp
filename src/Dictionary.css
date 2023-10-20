@@ -1,3 +1,42 @@
+body{
+font-family: 'Voces', sans-serif;
+color: #fdf6f6;
+background:linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%);
+
+}
+.Dictionary h2{
+font-size: 18px;
+font-weight: bold;
+margin-bottom: 10px;
+color: #388186;
+}
+
+h3{
+    color: #388186;
+}
+
 .Dictionary {
-    color: #000;
+    color:#2e2b2b;
+}
+
+.Dictionary section{
+    background-color: #fdf6f6;
+    padding:30px;
+    border-radius: 5px;
+    box-shadow: rgba(255, 255, 255, 0.5) 0px 1px 4px;
+    margin: 20px 0;    
+
+}
+
+.Dictionary input{
+    width: 100%;
+    padding: 5px 3px;
+    border: 1px solid #388186;
+    border-radius: 5px;
+
+}
+
+.Dictionary .hint{
+    font-size: 12px;
+    margin-top: 5px;
 }
