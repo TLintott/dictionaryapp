@@ -2,12 +2,14 @@
   max-width: 960px;
   display: block;
   margin: 0 auto;
+  color: #0881a3;
 }
 
 
 .App h1{
   text-align: center;
-  color: #fff;
+  text-shadow: 3px 0px 2px rgba(8, 129, 163, 0.4);
+  color: #0881a3;
   font-size: 64px;
   font-weight: bold;
   font-family: 'Voces', sans-serif;
@@ -32,6 +34,6 @@
 }
 
 a{
-  color: #fdf6f6;
+  color: #0881a3;
   font-weight: bold;
 }
