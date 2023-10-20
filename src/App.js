@@ -14,7 +14,7 @@ export default function App() {
       <main>
         <Dictionary defaultKeyword="Star" />
       </main>
-      <footer className="App-footer"><small>Coded by TL and open-sourced on <a href="https://github.com/TLintott/dictionaryapp">Github</a></small></footer>
+      <footer className="App-footer"><small>This Project was coded by Tracey Lintott and is open-sourced on <a href="https://github.com/TLintott/dictionaryapp">Github</a></small></footer>
       </div>
     </div>
   );
