@@ -1,3 +1,10 @@
+.App{
+  max-width: 960px;
+  display: block;
+  margin: 0 auto;
+}
+
+
 .App h1{
   text-align: center;
   color: #fff;
@@ -26,5 +33,5 @@
 
 a{
   color: #fdf6f6;
-  
+  font-weight: bold;
 }
